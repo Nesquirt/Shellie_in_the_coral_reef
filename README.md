@@ -1,3 +1,6 @@
+<p style="text-align: center;"><span style="background-color: #ff0000; color: #ffffff;"><strong>&nbsp;LEGGIMI&nbsp;</strong></span></p>
+
+
 <p>Repo con build finali e progetto del team assassin's script, Le build sono zippate e vanno unzipatte per poterle giocare.</p>
 <p>La cartella del progetto &egrave; caricata su mega perch&egrave; supera i 3gb anche con git lfs,i l link &egrave; senza scadenza ed &egrave; contenuto nel file Progetto_unity.</p>
 <p>Una volta scaricato da mega basta semplicemente cliccare due volte l'exe, &egrave; uno zip autoestraente, vi verr&agrave; chiesta la posizione dove voler unzippare il progetto.</p>
