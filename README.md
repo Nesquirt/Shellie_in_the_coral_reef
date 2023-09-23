@@ -9,18 +9,6 @@ team
 ASSASSIN’S SCRIPT
 
 
-
-Introduzione	2
-Concept	2
-ll team	2
-Specifiche	2
-Sinossi e Storytelling	2
-Ispirazioni	2
-Gameplay	2
-Tecnologia e Architettura	2
-Stile, Arte e Grafica	3
-Musica e Suoni	3
-
 Introduzione
 “SHELLIE IN THE CORAL REEF” nasce con l’intento di poter spiegare a grandi e piccoli il ciclo di vita della barriera corallina e la ricchezza in termini di biodiversità che crea nei fondali marini, facendogli capire come nasce, cresce e muore per cause naturali e umane.
 L’idea alla base del gioco è il fornire un’esperienza divertente, immersiva e che possa al contempo far riflettere tramite l’osservazione delle conseguenze derivanti dalle azioni del giocatore.
